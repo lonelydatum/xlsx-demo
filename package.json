@@ -1,0 +1,22 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lonelydatum/xlsx-demo.git"
+  },
+  "author": "Gar Liu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lonelydatum/xlsx-demo/issues"
+  },
+  "homepage": "https://github.com/lonelydatum/xlsx-demo#readme",
+  "devDependencies": {
+    "xlsx": "^0.8.0"
+  }
+}
